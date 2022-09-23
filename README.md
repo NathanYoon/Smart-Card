@@ -1,5 +1,5 @@
-# CPSC 349-02 Group Project 1, Team 2DE
-> Dillon Go (Team lead)
+# CPSC 349-02 Group Project 
+> Dillon Go 
 >
 > Evan Le
 >
